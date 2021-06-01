@@ -1,0 +1,4 @@
+com\netcracker\controller\GreetingController.class
+com\netcracker\servlets\HelloServlet.class
+com\netcracker\SpringBootStarter.class
+com\netcracker\model\Greeting.class
